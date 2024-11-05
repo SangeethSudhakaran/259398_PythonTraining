@@ -1,3 +1,4 @@
+## write a for loop to print users name multiple times
 def PrintName(name,number):
     for i in range(1,number+1):
         print(i,' : ', name)
