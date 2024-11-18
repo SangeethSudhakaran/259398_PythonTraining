@@ -22,7 +22,30 @@ Base.metadata.create_all(engine)
 session = SessionLocal()
 
 #Create
-new_user = User(name='Sangeeth', age=31)
+new_user = User(name='Sam', age=27)
 session.add(new_user)
 session.commit()
+
+#Read
+users = session.query(User).all()
+print("All Users")
+print("------------------------------------------")
+for user in users:
+    print("UserID",user.id,"\tName",user.name,"\tAge",user.age)
+    print("------------------------------------------")
+
+# Update
+user_to_update = session.query(User).filter_by(id=2).first()
+if(user_to_update):
+    user_to_update.age=27
+    user_to_update.name='Sam'
+    session.commit()    
+
+# Delete
+user_to_delete = session.query(User).filter_by(id=2).first()
+if(user_to_delete):
+    session.delete(user_to_delete)
+    session.commit()    
+
+#End session    
 session.close()
