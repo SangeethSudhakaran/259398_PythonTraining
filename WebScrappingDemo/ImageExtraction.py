@@ -2,30 +2,33 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-url= "https://www.worldometers.info/world-population/"
+url= "https://unsplash.com/s/photos/nature"
 response=requests.get(url)
 
 soup=BeautifulSoup(response.text,'html.parser')
-#print(soup)
 
-# Get the text of class
-i = 0
-master_list=[]
-col_names = ""
+images = soup.find_all('img',{"srcset":True})
+image_url=images[-1]
+image_url=image_url['src']
+print(image_url)
 
-table_data = soup.find('table')
-rows_data = table_data.find_all('tr')
-for colname in table_data.find_all('th'):
-    col_names += colname.text
+img_data = requests.get(image_url).content
+image_path = "sample_image.jpg"
+
+with open(image_path,"wb") as img_file_handler:
+    img_file_handler.write(img_data)
+
+#image_data = []
 
 
-for row in rows_data:
-    cells = row.find_all('td')
-    data = [cell.text.strip() for cell in cells]
-    print(rows_data)
-    #print(type(data))
-    master_list.append(data)
-    
-df = pd.DataFrame(master_list)
-print(col_names)
-print(df)
+for img in images:
+    image_url=img['src']
+    img_data = requests.get(image_url).content
+    image_path = f"./Images/{img['alt']}.jpg"
+
+    with open(image_path,"wb") as img_file_handler:
+        img_file_handler.write(img_data)
+
+#df = pd.DataFrame(image_data)
+#print(df)
+#df.to_csv("ImageData.csv")
