@@ -1,0 +1,137 @@
+1732691094699	geckodriver	INFO	Listening on 127.0.0.1:59094
+1732691097772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOgn3Va"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691098270	Marionette	INFO	Marionette enabled
+1732691098793	Marionette	INFO	Listening on port 59104
+WebDriver BiDi listening on ws://127.0.0.1:59095
+Read port: 59104
+1732691099054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732691122665	geckodriver	INFO	Listening on 127.0.0.1:59135
+1732691125743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQF4tbG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691126126	Marionette	INFO	Marionette enabled
+1732691126273	Marionette	INFO	Listening on port 59146
+WebDriver BiDi listening on ws://127.0.0.1:59136
+Read port: 59146
+1732691126464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732691139753	Marionette	INFO	Stopped listening on port 59146
+Dynamically enable window occlusion 1
+1732691172167	geckodriver	INFO	Listening on 127.0.0.1:59333
+1732691175215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXgF9i3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691175608	Marionette	INFO	Marionette enabled
+1732691175758	Marionette	INFO	Listening on port 59351
+WebDriver BiDi listening on ws://127.0.0.1:59334
+Read port: 59351
+1732691175952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732691177512	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732691214581	geckodriver	INFO	Listening on 127.0.0.1:59385
+1732691217652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelMKoAf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691218018	Marionette	INFO	Marionette enabled
+1732691218155	Marionette	INFO	Listening on port 59395
+Read port: 59395
+WebDriver BiDi listening on ws://127.0.0.1:59386
+1732691218232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732691219727	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732691274231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1732691282415	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg, line 100: Script terminated by timeout at:
+_.ug@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:169
+_.vg@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:438
+Og@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:109:38
+b@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:106:471
+
+1732691301662	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg, line 100: Script terminated by timeout at:
+_.ug@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:169
+_.vg@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:100:438
+Og@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:109:38
+b@https://www.gstatic.com/og/_/js/k=og.asy.en_US.sNWoy4fBUJA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads/exm=/d=1/ed=1/rs=AA2YrTtpLnwobp8543Do-yuwT_YyjAs8Xg:106:471
+
+1732691316496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js, line 922: Script terminated by timeout at:
+$l/<@https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js:922:47
+
+1732691327448	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i9wo4/y9/l/en_GB/TcSUdqrawjD.js, line 102: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732691351648	Marionette	INFO	Stopped listening on port 59395
+Dynamically enable window occlusion 1
+1732691362297	geckodriver	INFO	Listening on 127.0.0.1:59543
+1732691365358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6f767f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691365731	Marionette	INFO	Marionette enabled
+1732691365871	Marionette	INFO	Listening on port 59554
+WebDriver BiDi listening on ws://127.0.0.1:59544
+Read port: 59554
+1732691366057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i9wo4/y9/l/en_GB/TcSUdqrawjD.js, line 102: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732691381737	Marionette	INFO	Stopped listening on port 59554
+Dynamically enable window occlusion 1
+1732691440144	geckodriver	INFO	Listening on 127.0.0.1:59624
+1732691443207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9Dmy83"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691443581	Marionette	INFO	Marionette enabled
+1732691443719	Marionette	INFO	Listening on port 59634
+WebDriver BiDi listening on ws://127.0.0.1:59625
+Read port: 59634
+1732691443906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_Ou4/yQ/l/en_GB/bSFmFG5wOuO.js, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732691453162	Marionette	INFO	Stopped listening on port 59634
+Dynamically enable window occlusion 1
+1732691753819	geckodriver	INFO	Listening on 127.0.0.1:59838
+1732691756892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMQOpko"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732691757280	Marionette	INFO	Marionette enabled
+1732691757425	Marionette	INFO	Listening on port 59850
+WebDriver BiDi listening on ws://127.0.0.1:59839
+Read port: 59850
+1732691757619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_Ou4/yQ/l/en_GB/bSFmFG5wOuO.js, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js, line 17: Script terminated by timeout at:
+q@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:17:1633
+v@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:17:2508
+x.prototype.compressToBuffer@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:17:3105
+b@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:17:1173
+compressUint8ArrayToSnappy@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:18:236
+compressStringToSnappy@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:18:530
+compressWad@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:19:641
+_prepWadForTransit@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:20:1890
+_tryToSendViaBeacon@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:20:3868
+_unload@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/DlS8iOPbc-U.js:20:4340
+a@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:320:191
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:70:10628
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:227:528
+j@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/yF/l/en_GB/0g9ACyquZNC.js:29:355
+k@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/yF/l/en_GB/0g9ACyquZNC.js:29:603
+d/<@https://static.xx.fbcdn.net/rsrc.php/v3ij9m4/yF/l/en_GB/0g9ACyquZNC.js:29:1232
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:70:10628
+b.$5@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:83:1000
+a.$5@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:83:3068
+c@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:83:715
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:70:10628
+c.__emitToSubscription@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:79:1477
+c.emit@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:79:1303
+b.emitAndHold@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:81:1043
+b.inform@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:83:1663
+a.inform@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:83:2681
+l/window.onunload<@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:321:867
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:70:10628
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:327:2086
+
+1732691765599	Marionette	INFO	Stopped listening on port 59850
+Dynamically enable window occlusion 1
