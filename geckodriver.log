@@ -135,3 +135,182 @@ d@https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/zHkjysyKz0l.js:327:2086
 
 1732691765599	Marionette	INFO	Stopped listening on port 59850
 Dynamically enable window occlusion 1
+1732694223529	geckodriver	INFO	Listening on 127.0.0.1:60724
+1732694226599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelHUJz6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732694226998	Marionette	INFO	Marionette enabled
+1732694227143	Marionette	INFO	Listening on port 60734
+WebDriver BiDi listening on ws://127.0.0.1:60725
+Read port: 60734
+1732694227333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_Ou4/yQ/l/en_GB/bSFmFG5wOuO.js, line 36: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732694242430	Marionette	INFO	Stopped listening on port 60734
+Dynamically enable window occlusion 1
+1732695557445	geckodriver	INFO	Listening on 127.0.0.1:61456
+1732695560505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejk6Zhn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732695560902	Marionette	INFO	Marionette enabled
+1732695561055	Marionette	INFO	Listening on port 61468
+WebDriver BiDi listening on ws://127.0.0.1:61457
+Read port: 61468
+1732695561249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732695563089	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732943338728	geckodriver	INFO	Listening on 127.0.0.1:61568
+1732943341801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5otPig"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943342194	Marionette	INFO	Marionette enabled
+1732943342341	Marionette	INFO	Listening on port 61579
+WebDriver BiDi listening on ws://127.0.0.1:61569
+Read port: 61579
+1732943342536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732943351282	Marionette	INFO	Stopped listening on port 61579
+Dynamically enable window occlusion 1
+1732943492797	geckodriver	INFO	Listening on 127.0.0.1:61752
+1732943495861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyIImeP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943496251	Marionette	INFO	Marionette enabled
+1732943496401	Marionette	INFO	Listening on port 61765
+WebDriver BiDi listening on ws://127.0.0.1:61753
+Read port: 61765
+1732943496610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732943509940	Marionette	INFO	Stopped listening on port 61765
+JavaScript warning: https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_GB/base.js, line 1669: Script terminated by timeout at:
+g.or/<@https://www.youtube.com/s/player/b46bb280/player_ias.vflset/en_GB/base.js:1669:49
+
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.LiTiL6l-348.2018.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAhAAQEEAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAQIAACIAEAAAIAAAAAgAUAABAYQIAAAEAAAAAAAEBAAAAABIgA7PcfBwAAAAAAAAAAAAQBgAgAAAAAgAsAAASAkgAAAAFAAAAAYAAAAEAAAAAAAAAFAAAAAAAAAAACAAAAAAAAAAAAAAAEAPQDAAAAAAAAAAAAAAAEAAAAAAAwQAGAAH4AAAAAAABwAAAAACAgAACAI2AAAgAAAAAAAOA-AHg8IBxSWAAAAAAAAAAAAAAAAEAAEwRzQPoDAkAAAAAAAAAAAAAAAAAAAECKoInLCQAI/d=1/ed=1/dg=3/br=1/rs=ACT90oEZwBDqqgf-B7ohJEDfJuKpT6Y1Gw/ee=ALeJib:B8gLwd;AfeaP:TkrAjf;Afksuc:wMx0R;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;CxXAWb:YyRLvc;DM55c:imLrKe;DULqB:RKfG5c;Dkk6ge:JZmW9e;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;F9mqte:UoRcbe;Fmv9Nc:O1Tzwc;FqHJkd:yQamIb;G0KhTb:LIaoZ;G6wU6e:hezEbd;GleZL:J1A7Od;HMDDWe:G8QUdb;HoYVKb:PkDN7e;HqeXPd:cmbnH;IBADCc:RYquRb;IZrNqe:P8ha2c;IoGlCf:b5lhvb;IsdWVc:qzxzOb;JXJSm:ii1RGf;JXS8fb:Qj0suc;JbMT3:M25sS;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;KOxcK:OZqGte;KQzWid:ZMKkN;KcokUb:KiuZBf;KpRAue:Tia57b;LBgRLc:SdcwHb,XVMNvd;LEikZe:byfTOb,lsjVmc;LXA8b:q7OdKd;LsNahb:ucGLNb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;OgagBe:cNTe0;OohIYe:mpEAQb;Pjplud:EEDORb,PoEs9b;PqHfGe:im2cZe;Q1Ow7b:x5CSu;Q6C5kf:pfdZCe;QGR0gd:Mlhmy;R2kc8b:ALJqWb;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RCF5Sd:X1kBmd;RDNBlf:zPRCJb;SLtqO:Kh1xYe;SMDL4c:fTfGO,fTfGO;SNUn3:ZwDk9d,x8cHvb;ScI3Yc:e7Hzgb,e7Hzgb;ShpF6e:N0pvGc;SzQQ3e:dNhofb;TxfV6d:YORN0b;U96pRd:FsR04;UBKJZ:LGDJGb;UDrY1c:eps46d;UVmjEd:EesRsb;UVzb9c:IvPZ6d;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VN6jIc:ddQyuf;VOcgDe:YquhTb;VsAqSb:PGf2Re;VxQ32b:k0XsBb;WCEKNd:I46Hvd;WDGyFe:jcVOxd;Wfmdue:g3MJlb;XUezZ:sa7lqb;YIZmRd:A1yn5d;YV5bee:IvPZ6d;YkQtAf:rx8ur;ZMvdv:PHFPjb;ZSH6tc:QAvyLe;ZWEUA:afR4Cf;Zen4yb:jMF88c;ZlOOMb:P0I0Ec;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aCJ9tf:qKftvc;aZ61od:arTwJ;af0EJf:ghinId;bDXwRe:UsyOtc;bFZ6gf:RsDQqe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;coJ8e:KvoW8;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;daB6be:lMxGPd;dowIGb:ebZ3mb,ebZ3mb;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:ofjVkb;eO3lse:nFClrf;euOXY:OZjbQ;flqRgb:ox2Q7c;g8nkx:U4MzKc;gaub4:TN6bMe;gtVSi:ekUOYd;h3MYod:cEt90b;hK67qb:QWEO5b;heHB1:sFczq;hjRo6e:F62sG;hsLsYc:Vl118;iFQyKf:QIhFr,vfuNJf;imqimf:jKGL2e;jY0zg:Q6tNgc;k2Qxcb:XY51pe;kCQyJ:ueyPK;kMFpHd:OTA3Ae;kbAm9d:MkHyGd;lOO0Vd:OTA3Ae;lbfkyf:MqGdUd;lkq0A:JyBE3e;mWzs9c:fz5ukf;mzW4Id:nYdusb;nAFL3:NTMZac,s39S4;nJw4Gd:dPFZH;oGtAuc:sOXFj;oSUNyd:fTfGO,fTfGO;oUlnpc:RagDlc;oVHXxc:HODIOb;okUaUd:wItadb;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:ww04Df;qGV2uc:HHi04c;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qafBPd:sgY6Zb;qavrXe:zQzcXe;qddgKe:d7YSfd,x4FYXe;rQSrae:C6D5Fc;ropkZ:UT1DG;sTsDMc:kHVSUb;sZmdvc:rdGEfc;tGdRVe:CS1mob;tH4IIe:Ymry6;tosKvd:ZCqP3;trZL0b:qY8PFe;uknmt:GkPrzb;uuQkY:u2V3ud;vEYCNb:FaqsVd;vGrMZ:lPJJ0c;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w4rSdf:XKiZ9;w9w86d:dt4g2b;wQlYve:aLUfP;wR5FRb:O1Gjze,TtcOte;wV5Pjc:L8KGxe;xBbsrc:NEW1Qc;xbe2wc:wbTLEd;xtZeyf:ax1MVb;ysNiMc:CpIBjd;yxTchf:KUM7Z;z97YGf:oug9te;zOsCQe:Ko78Df;zaIgPb:Qtpxbd/m=attn,cdos,gwc,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi, line 401: Script terminated by timeout at:
+mza/<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.LiTiL6l-348.2018.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAhAAQEEAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAQIAACIAEAAAIAAAAAgAUAABAYQIAAAEAAAAAAAEBAAAAABIgA7PcfBwAAAAAAAAAAAAQBgAgAAAAAgAsAAASAkgAAAAFAAAAAYAAAAEAAAAAAAAAFAAAAAAAAAAACAAAAAAAAAAAAAAAEAPQDAAAAAAAAAAAAAAAEAAAAAAAwQAGAAH4AAAAAAABwAAAAACAgAACAI2AAAgAAAAAAAOA-AHg8IBxSWAAAAAAAAAAAAAAAAEAAEwRzQPoDAkAAAAAAAAAAAAAAAAAAAECKoInLCQAI/d=1/ed=1/dg=3/br=1/rs=ACT90oEZwBDqqgf-B7ohJEDfJuKpT6Y1Gw/ee=ALeJib:B8gLwd;AfeaP:TkrAjf;Afksuc:wMx0R;BMxAGc:E5bFse;BgS6mb:fidj5d;BjwMce:cXX2Wb;CxXAWb:YyRLvc;DM55c:imLrKe;DULqB:RKfG5c;Dkk6ge:JZmW9e;DpcR3d:zL72xf;EABSZ:MXZt9d;ESrPQc:mNTJvc;EVNhjf:pw70Gc;EmZ2Bf:zr1jrb;EnlcNd:WeHg4;F9mqte:UoRcbe;Fmv9Nc:O1Tzwc;FqHJkd:yQamIb;G0KhTb:LIaoZ;G6wU6e:hezEbd;GleZL:J1A7Od;HMDDWe:G8QUdb;HoYVKb:PkDN7e;HqeXPd:cmbnH;IBADCc:RYquRb;IZrNqe:P8ha2c;IoGlCf:b5lhvb;IsdWVc:qzxzOb;JXJSm:ii1RGf;JXS8fb:Qj0suc;JbMT3:M25sS;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;KOxcK:OZqGte;KQzWid:ZMKkN;KcokUb:KiuZBf;KpRAue:Tia57b;LBgRLc:SdcwHb,XVMNvd;LEikZe:byfTOb,lsjVmc;LXA8b:q7OdKd;LsNahb:ucGLNb;Me32dd:MEeYgc;NPKaK:SdcwHb;NSEoX:lazG7b;Np8Qkd:Dpx6qc;Nyt6ic:jn2sGd;OgagBe:cNTe0;OohIYe:mpEAQb;Pjplud:EEDORb,PoEs9b;PqHfGe:im2cZe;Q1Ow7b:x5CSu;Q6C5kf:pfdZCe;QGR0gd:Mlhmy;R2kc8b:ALJqWb;R4IIIb:QWfeKf;R9Ulx:CR7Ufe;RCF5Sd:X1kBmd;RDNBlf:zPRCJb;SLtqO:Kh1xYe;SMDL4c:fTfGO,fTfGO;SNUn3:ZwDk9d,x8cHvb;ScI3Yc:e7Hzgb,e7Hzgb;ShpF6e:N0pvGc;SzQQ3e:dNhofb;TxfV6d:YORN0b;U96pRd:FsR04;UBKJZ:LGDJGb;UDrY1c:eps46d;UVmjEd:EesRsb;UVzb9c:IvPZ6d;UyG7Kb:wQd0G;V2HTTe:RolTY;VGRfx:VFqbr;VN6jIc:ddQyuf;VOcgDe:YquhTb;VsAqSb:PGf2Re;VxQ32b:k0XsBb;WCEKNd:I46Hvd;WDGyFe:jcVOxd;Wfmdue:g3MJlb;XUezZ:sa7lqb;YIZmRd:A1yn5d;YV5bee:IvPZ6d;YkQtAf:rx8ur;ZMvdv:PHFPjb;ZSH6tc:QAvyLe;ZWEUA:afR4Cf;Zen4yb:jMF88c;ZlOOMb:P0I0Ec;a56pNe:JEfCwb;aAJE9c:WHW6Ef;aCJ9tf:qKftvc;aZ61od:arTwJ;af0EJf:ghinId;bDXwRe:UsyOtc;bFZ6gf:RsDQqe;bcPXSc:gSZLJb;cEt90b:ws9Tlc;cFTWae:gT8qnd;coJ8e:KvoW8;dIoSBb:ZgGg9b;dLlj2:Qqt3Gf;daB6be:lMxGPd;dowIGb:ebZ3mb,ebZ3mb;dtl0hd:lLQWFe;eBAeSb:Ck63tb;eBZ5Nd:audvde;eHDfl:ofjVkb;eO3lse:nFClrf;euOXY:OZjbQ;flqRgb:ox2Q7c;g8nkx:U4MzKc;gaub4:TN6bMe;gtVSi:ekUOYd;h3MYod:cEt90b;hK67qb:QWEO5b;heHB1:sFczq;hjRo6e:F62sG;hsLsYc:Vl118;iFQyKf:QIhFr,vfuNJf;imqimf:jKGL2e;jY0zg:Q6tNgc;k2Qxcb:XY51pe;kCQyJ:ueyPK;kMFpHd:OTA3Ae;kbAm9d:MkHyGd;lOO0Vd:OTA3Ae;lbfkyf:MqGdUd;lkq0A:JyBE3e;mWzs9c:fz5ukf;mzW4Id:nYdusb;nAFL3:NTMZac,s39S4;nJw4Gd:dPFZH;oGtAuc:sOXFj;oSUNyd:fTfGO,fTfGO;oUlnpc:RagDlc;oVHXxc:HODIOb;okUaUd:wItadb;pKJiXd:VCenhc;pNsl2d:j9Yuyc;pXdRYb:JKoKVe;pj82le:ww04Df;qGV2uc:HHi04c;qZx2Fc:j0xrE;qaS3gd:yiLg6e;qafBPd:sgY6Zb;qavrXe:zQzcXe;qddgKe:d7YSfd,x4FYXe;rQSrae:C6D5Fc;ropkZ:UT1DG;sTsDMc:kHVSUb;sZmdvc:rdGEfc;tGdRVe:CS1mob;tH4IIe:Ymry6;tosKvd:ZCqP3;trZL0b:qY8PFe;uknmt:GkPrzb;uuQkY:u2V3ud;vEYCNb:FaqsVd;vGrMZ:lPJJ0c;vfVwPd:lcrkwe;w3bZCb:ZPGaIb;w4rSdf:XKiZ9;w9w86d:dt4g2b;wQlYve:aLUfP;wR5FRb:O1Gjze,TtcOte;wV5Pjc:L8KGxe;xBbsrc:NEW1Qc;xbe2wc:wbTLEd;xtZeyf:ax1MVb;ysNiMc:CpIBjd;yxTchf:KUM7Z;z97YGf:oug9te;zOsCQe:Ko78Df;zaIgPb:Qtpxbd/m=attn,cdos,gwc,hsm,jsa,mb4ZUb,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl,YV5bee,d,csi:401:71
+
+Dynamically enable window occlusion 1
+1732944288985	geckodriver	INFO	Listening on 127.0.0.1:62544
+1732944292060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVPeiwK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944292465	Marionette	INFO	Marionette enabled
+1732944292610	Marionette	INFO	Listening on port 62556
+WebDriver BiDi listening on ws://127.0.0.1:62545
+Read port: 62556
+1732944292793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732944316698	geckodriver	INFO	Listening on 127.0.0.1:62610
+1732944319775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileoii9gD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944320151	Marionette	INFO	Marionette enabled
+1732944320294	Marionette	INFO	Listening on port 62625
+WebDriver BiDi listening on ws://127.0.0.1:62611
+Read port: 62625
+1732944320486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732944336858	geckodriver	INFO	Listening on 127.0.0.1:62671
+1732944339923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilew5PLkn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944340293	Marionette	INFO	Marionette enabled
+1732944340430	Marionette	INFO	Listening on port 62683
+WebDriver BiDi listening on ws://127.0.0.1:62672
+Read port: 62683
+1732944340621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732944352804	Marionette	INFO	Stopped listening on port 62683
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+1732944433552	geckodriver	INFO	Listening on 127.0.0.1:62799
+1732944436625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqQP1lz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944436999	Marionette	INFO	Marionette enabled
+1732944437134	Marionette	INFO	Listening on port 62810
+WebDriver BiDi listening on ws://127.0.0.1:62800
+Read port: 62810
+1732944437319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1732944443351	Marionette	INFO	Stopped listening on port 62810
+Dynamically enable window occlusion 1
+1732944583579	geckodriver	INFO	Listening on 127.0.0.1:63032
+1732944586645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepV1rb2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944587047	Marionette	INFO	Marionette enabled
+1732944587191	Marionette	INFO	Listening on port 63046
+WebDriver BiDi listening on ws://127.0.0.1:63033
+Read port: 63046
+1732944587380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732944599277	Marionette	INFO	Stopped listening on port 63046
+Dynamically enable window occlusion 1
+1732944655134	geckodriver	INFO	Listening on 127.0.0.1:63146
+1732944658205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileEFgmUR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944658588	Marionette	INFO	Marionette enabled
+1732944658732	Marionette	INFO	Listening on port 63158
+WebDriver BiDi listening on ws://127.0.0.1:63147
+Read port: 63158
+1732944658925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1732944667896	Marionette	INFO	Stopped listening on port 63158
+Dynamically enable window occlusion 1
+1732944841911	geckodriver	INFO	Listening on 127.0.0.1:63357
+1732944844985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4T9Tu8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944845375	Marionette	INFO	Marionette enabled
+1732944845523	Marionette	INFO	Listening on port 63369
+WebDriver BiDi listening on ws://127.0.0.1:63358
+Read port: 63369
+1732944845715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732944980850	geckodriver	INFO	Listening on 127.0.0.1:63503
+1732944983917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63504" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTdWc9x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732944984299	Marionette	INFO	Marionette enabled
+1732944984439	Marionette	INFO	Listening on port 63515
+WebDriver BiDi listening on ws://127.0.0.1:63504
+Read port: 63515
+1732944984627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1732945067656	geckodriver	INFO	Listening on 127.0.0.1:63625
+1732945070720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejcWgb7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945071095	Marionette	INFO	Marionette enabled
+1732945071234	Marionette	INFO	Listening on port 63638
+WebDriver BiDi listening on ws://127.0.0.1:63626
+Read port: 63638
+1732945071421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://practicetestautomation.com."
+1732945082989	Marionette	INFO	Stopped listening on port 63638
+Dynamically enable window occlusion 1
