@@ -28,10 +28,17 @@ buttonLogin.click()
 driver.implicitly_wait(5)
 
 # cehck login success
-checkLoginSuccess = driver.find_element(By.TAG_NAME,"h1")
-if(checkLoginSuccess):
-    print("Login success!")
+try:
+    checkLoginSuccess = driver.find_element(By.TAG_NAME,"h1")
+    if(checkLoginSuccess.text=="Logged In Successfully"):
+        print("Logged In Successfully!")
+    else:
+        print("Failed to login!")
+except Exception as e:
+    print(e)        
+    print("Failed to login")        
 
-# Putting delay to close
+
+# Putting delay to closeex
 time.sleep(10)
 driver.quit()
