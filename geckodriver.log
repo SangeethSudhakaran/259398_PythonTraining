@@ -804,3 +804,276 @@ Dynamically enable window occlusion 0
 WebDriver BiDi listening on ws://127.0.0.1:65487
 Read port: 65499
 1732950705555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732951475726	geckodriver	INFO	Listening on 127.0.0.1:50281
+1732951490004	geckodriver	INFO	Listening on 127.0.0.1:50307
+1732951493057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledPeDOE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951493450	Marionette	INFO	Marionette enabled
+1732951493602	Marionette	INFO	Listening on port 50320
+WebDriver BiDi listening on ws://127.0.0.1:50308
+Read port: 50320
+1732951493801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951612620	geckodriver	INFO	Listening on 127.0.0.1:50668
+1732951615687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1mrtFl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951616093	Marionette	INFO	Marionette enabled
+1732951616251	Marionette	INFO	Listening on port 50680
+WebDriver BiDi listening on ws://127.0.0.1:50669
+Read port: 50680
+1732951616441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3435 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7338 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951631808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951631840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://stdb.bidsxchange.com/AdCode.js, line 15: Script terminated by timeout at:
+start_bsrvtagThreadHandler/bsrvtagThreadHandle<@https://stdb.bidsxchange.com/AdCode.js:15:7
+
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=false
+1732951633219	Marionette	INFO	Stopped listening on port 50680
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951642597	geckodriver	INFO	Listening on 127.0.0.1:50986
+1732951645858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUcu2M9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951646290	Marionette	INFO	Marionette enabled
+1732951646460	Marionette	INFO	Listening on port 51023
+WebDriver BiDi listening on ws://127.0.0.1:50987
+Read port: 51023
+1732951646558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2939 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 607 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951660299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951660310	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6858 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951707232	geckodriver	INFO	Listening on 127.0.0.1:51401
+1732951710288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7cZSob"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951710678	Marionette	INFO	Marionette enabled
+1732951710838	Marionette	INFO	Listening on port 51412
+WebDriver BiDi listening on ws://127.0.0.1:51402
+Read port: 51412
+1732951711033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4843 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2816 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1378 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951725445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951725500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951768694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951785386	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bcb2-t7TpOJ1tauCPGG4wb9erzaSBWhoTAmx4ZVNPZM.js line 2 > eval line 6608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bcb2-t7TpOJ1tauCPGG4wb9erzaSBWhoTAmx4ZVNPZM.js line 2 > eval line 5986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bcb2-t7TpOJ1tauCPGG4wb9erzaSBWhoTAmx4ZVNPZM.js line 2 > eval line 5002 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951952095	geckodriver	INFO	Listening on 127.0.0.1:52079
+1732951955137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOs9fzt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951955533	Marionette	INFO	Marionette enabled
+1732951955675	Marionette	INFO	Listening on port 52092
+WebDriver BiDi listening on ws://127.0.0.1:52080
+Read port: 52092
+1732951955866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 23 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5989 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951970119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951970144	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732952039258	geckodriver	INFO	Listening on 127.0.0.1:52471
+1732952042317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1hPCxE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732952042693	Marionette	INFO	Marionette enabled
+1732952042828	Marionette	INFO	Listening on port 52483
+WebDriver BiDi listening on ws://127.0.0.1:52472
+Read port: 52483
+1732952043017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1924 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7074 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4002 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732952057563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732952057623	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732952106233	geckodriver	INFO	Listening on 127.0.0.1:52895
+1732952109270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileD8Qn33"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732952109680	Marionette	INFO	Marionette enabled
+1732952109841	Marionette	INFO	Listening on port 52908
+WebDriver BiDi listening on ws://127.0.0.1:52896
+Read port: 52908
+1732952110047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3718 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7093 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2581 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732954338991	geckodriver	INFO	Listening on 127.0.0.1:55522
+1732954342031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerIXYX0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732954342405	Marionette	INFO	Marionette enabled
+1732954342542	Marionette	INFO	Listening on port 55533
+WebDriver BiDi listening on ws://127.0.0.1:55523
+Read port: 55533
+1732954342728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 6101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 6484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 3389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 5857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2739 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732954356989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732954357058	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732954360567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 4108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732954435435	Marionette	INFO	Stopped listening on port 55533
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732954499970	geckodriver	INFO	Listening on 127.0.0.1:56081
+1732954502999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePkxVdI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732954503378	Marionette	INFO	Marionette enabled
+1732954503517	Marionette	INFO	Listening on port 56093
+WebDriver BiDi listening on ws://127.0.0.1:56082
+Read port: 56093
+1732954503701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 4965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 6428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 1301 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 5557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2643 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732954519399	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732954519730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732954520919	Marionette	INFO	Stopped listening on port 56093
+JavaScript warning: https://rtbcdn.andbeyond.media/prod-global-32339.js, line 1: Script terminated by timeout at:
+processSlot/timer<@https://rtbcdn.andbeyond.media/prod-global-32339.js:1:52685
+
+JavaScript warning: https://test-fsrv.bidsxchange.com/672, line 83: Script terminated by timeout at:
+adIframeMonitor<@https://test-fsrv.bidsxchange.com/672:83:7
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 976 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732954822878	geckodriver	INFO	Listening on 127.0.0.1:56864
+1732954825925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile22UbVF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732954826358	Marionette	INFO	Marionette enabled
+1732954826512	Marionette	INFO	Listening on port 56876
+WebDriver BiDi listening on ws://127.0.0.1:56865
+Read port: 56876
+1732954826732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 809 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 7003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732954845121	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732954852739	Marionette	INFO	Stopped listening on port 56876
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732960220348	geckodriver	INFO	Listening on 127.0.0.1:61390
+1732960223405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOmZnWI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732960223785	Marionette	INFO	Marionette enabled
+1732960223934	Marionette	INFO	Listening on port 61400
+WebDriver BiDi listening on ws://127.0.0.1:61391
+Read port: 61400
+1732960224124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 5602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 1959 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 5024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 4334 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732960239019	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960239054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960244278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960252089	Marionette	INFO	Stopped listening on port 61400
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732960285518	geckodriver	INFO	Listening on 127.0.0.1:61782
+1732960288574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesKasnU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732960288951	Marionette	INFO	Marionette enabled
+1732960289093	Marionette	INFO	Listening on port 61793
+WebDriver BiDi listening on ws://127.0.0.1:61783
+Read port: 61793
+1732960289281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 2288 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 4622 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 4707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 6926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 1061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lt2cCoPsX252dEmzUuMfQOVAz67OvgkgZdQzIFlkHFY.js line 2 > eval line 1259 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732960303952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960303961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960308261	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1732960309364	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732960316445	Marionette	INFO	Stopped listening on port 61793
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
